@@ -1,1 +1,1 @@
-All data and code are available as part of Supporting Information associated with the manuscript and via the GitHub repository (https://github.com/GuoHR0915/GuoHR0915-MaligantCluster-Marker-RARRES2-in-Glioma).
+Gong Y, Guo H, Ding H, Hu X, Ding Z, Ma M, Chen J. Characterizing malignant prognostic signatures in primary glioma based on single-cell and bulk transcriptome sequencing. PLoS One. 2026 Jun 5;21(6):e0349749. doi: 10.1371/journal.pone.0349749. PMID: 42247404; PMCID: PMC13240926.
